@@ -1,3 +1,4 @@
 # hello-world
-my first repository\n
+my first repository:
+
 Theoretical physicist turning into machine learning
